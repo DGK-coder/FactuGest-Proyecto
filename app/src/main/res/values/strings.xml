@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">FactuGest</string>
+    <string name="screen_home">Inicio</string>
+    <string name="screen_invoices">Facturas</string>
+    <string name="screen_clients">Clientes</string>
+    <string name="screen_settings">Ajustes</string>
+    <string name="home_placeholder">Aquí irá el resumen de tu actividad.</string>
+    <string name="invoices_placeholder">Aquí podrás consultar y gestionar tus facturas.</string>
+    <string name="clients_placeholder">Aquí podrás consultar y gestionar tus clientes.</string>
+    <string name="settings_placeholder">Aquí podrás configurar FactuGest.</string>
 </resources>
